@@ -3,7 +3,7 @@
 This is fairly a simple project in two parts. The first part focuses on creating an EC2 instance from the AWS Management Console and then connecting to this instance from Putty. Then follow some manual process to install Apache Web Server and print the instance id in the html page. The second part of this project focuses on automating the whole process by bootstrapping the EC2 instance.
 
 ## Follow Along:
-###  Part 1
+###  Part 1  
 Create any Free Tier eligible EC2 instance. Use "Putty" and "PuttyGen" to convert the key-pair pem file to a ppk file. After successfully login to the EC2 instance from putty, it should like something like this:
 
 <img width="328" alt="1" src="https://user-images.githubusercontent.com/83409681/117666084-1d1a4f00-b1c1-11eb-946e-b8da491e892c.png">
