@@ -5,5 +5,5 @@ This is a medium difficulty level project. Based on the reference architecture d
 # Part 1: Create AMI from an EC2 Instance
 Head over to EC2 in services from AWS Management Console. Then "Launch Instance" :
 
-![alt 2](Project%202%20Designing%20High%20Availability%20AWS%20Infrastructure/Images/02.png)
+![alt 2](Images/02.png)
 
